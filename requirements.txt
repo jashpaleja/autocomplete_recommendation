@@ -1,0 +1,4 @@
+typesense
+flask
+tqdm
+ujson
