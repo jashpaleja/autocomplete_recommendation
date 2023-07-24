@@ -9,4 +9,4 @@ run:- `python predictor.py`
 The server will be running on port http://127.0.0.1:8083/
 
 You can search with below example.
-http://127.0.0.1:8083/search?q={write your search query here}&type={'icd', 'cpt', 'med'}
+http://127.0.0.1:8083/search?q={'write your search query here'}&type={'icd', 'cpt', 'med'}
